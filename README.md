@@ -6,7 +6,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=221500&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Ismail+Astighfar;I'm+from+Morocco;I'm+a+computer+Science+Student)
 
 
-
+<br>
 
 <h1 align="center"> Let's Connect and have a Chat!<img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="50px"/> </h1>
 <div> 
@@ -17,12 +17,14 @@
     </a>
   </p>
 </div>
+<br>
 
 <img width="350" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### :man_technologist: About Me : 
 >  :man_student: **I'm Astighfar Ismail, Master's student in Computer Science Engineering.**<br  />
 
+<br>
 
 **My interests:**<br  />
 Fields of interests |
@@ -31,6 +33,7 @@ Web Development |
 Machine Learning | 
 Mobile Development |
 
+<br>
 
 ### :hammer_and_wrench: Some Tools I Have Used and Learned :
 
@@ -41,7 +44,7 @@ Mobile Development |
     </a>
   </p>
 </div>
-
+<br>
 <h1> :fire: My Stats :</h1>
 <div align="center">
   <br>
@@ -52,6 +55,7 @@ Mobile Development |
   <a href="#">
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailastighfar&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
   </a>
+  <br>
   <a>
      <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ismailastighfar&theme=github_dark&show_icons=true" />
   </a>
