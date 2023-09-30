@@ -1,17 +1,60 @@
-<h1 align="center">Hi 👋, I'm Astighfar Ismail</h1>
-<h3 align="center">Computer Science Student Master's Degree</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ismail-astighfar-a65734223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismail-astighfar-a65734223" height="30" width="40" /></a>
-<a href="https://instagram.com/ismail_astighfar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ismail_astighfar" height="30" width="40" /></a>
-</p>
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000001&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ismail+Astighfar;I'm+from+Morocco;I'm+a+computer+Science+Student;Be+Welcome!+ツ)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailastighfar&show_icons=true&locale=en&layout=compact" alt="ismailastighfar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismailastighfar&show_icons=true&locale=en" alt="ismailastighfar" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismailastighfar&theme=juicyfresh&margin-w=15" alt="ismail" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailastighfar&" alt="ismailastighfar" /></p>
+
+<h1 align="center"> Let's Connect and have a Chat!<img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="50px"/> </h1>
+<div> 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/ismail-astighfar-a65734223/"><img title="linkedin.com/in/ismail/" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+	<a href="https://www.instagram.com/ismail_astighfar/"><img title="instagram.com/ismail_astighfar/" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+    </a>
+  </p>
+</div>
+
+### :man_technologist: About Me : 
+>  :man_student: **I'm Astighfar Ismail, Master's student in Computer Science Engineering.**<br  />
+
+
+**My interests:**<br  />
+Fields of interests |
+------------ | 
+Web Development | 
+Machine Learning | 
+Mobile Development |
+
+
+### :hammer_and_wrench: Some Tools I Have Used and Learned :
+
+<div style="display: inline_block">
+  <p align="center">
+	<a href="#">
+      <img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,java,hibernate,spring,php,laravel,mysql,c,python,git" />
+    </a>
+  </p>
+</div>
+
+<h1> :fire: My Stats :</h1>
+<div align="center">
+  <br>
+  <a href="#">
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ismailastighfar&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
+  </a>
+	
+  <a href="#">
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailastighfar&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
+  </a>
+  <a>
+     <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ismailastighfar&theme=github_dark&show_icons=true" />
+  </a>
+</div> 
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+</a>
