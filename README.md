@@ -3,10 +3,9 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000001&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ismail+Astighfar;I'm+from+Morocco;I'm+a+computer+Science+Student;Be+Welcome!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=221500&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Ismail+Astighfar;I'm+from+Morocco;I'm+a+computer+Science+Student)
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismailastighfar&theme=juicyfresh&margin-w=15" alt="ismail" /></a> </p>
 
 
 <h1 align="center"> Let's Connect and have a Chat!<img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="50px"/> </h1>
@@ -18,6 +17,8 @@
     </a>
   </p>
 </div>
+
+<img width="350" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### :man_technologist: About Me : 
 >  :man_student: **I'm Astighfar Ismail, Master's student in Computer Science Engineering.**<br  />
