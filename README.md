@@ -20,7 +20,7 @@
 <img width="350" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### :man_technologist: About Me : 
->  :man_student: **I'm Astighfar Ismail, I have a master's degree in CS.**<br  />
+>  :man_student: **I'm Astighfar Ismail, I have a master's degree in CS and i'm currently looking for a job !!**<br  />
 
 <br>
 
