@@ -8,7 +8,7 @@
 
 <br>
 
-<h1 align="center"> Let's Connect and have a Chat!<img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="50px"/> </h1>
+<h1 align="center"> Let's Connect and have a Chat!<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWM0NDVnOWMzY3l5azI0ODY1dm4zeXZ2NDAwZmEyb3g4cDI3ajNoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4SdFG1BbqiJEI/giphy.gif" width="100px"/> </h1>
 <div> 
   <p align="center">
     <a href="https://www.linkedin.com/in/ismail-astighfar-a65734223/"><img title="linkedin.com/in/ismail/" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
