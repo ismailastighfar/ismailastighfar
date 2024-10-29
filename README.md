@@ -3,7 +3,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=221500&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Ismail+Astighfar;I'm+from+Morocco;I'm+a+computer+Science+Student)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=221500&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Ismail+Astighfar;I'm+from+Morocco;I'm+a+Software+Enginner)
 
 
 <br>
@@ -13,8 +13,6 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/ismail-astighfar-a65734223/"><img title="linkedin.com/in/ismail/" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-	<a href="https://www.instagram.com/ismail_astighfar/"><img title="instagram.com/ismail_astighfar/" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-    </a>
   </p>
 </div>
 <br>
@@ -22,7 +20,7 @@
 <img width="350" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### :man_technologist: About Me : 
->  :man_student: **I'm Astighfar Ismail, Master's student in Computer Science Engineering.**<br  />
+>  :man_student: **I'm Astighfar Ismail, I have a master's degree in CS.**<br  />
 
 <br>
 
@@ -30,8 +28,8 @@
 Fields of interests |
 ------------ | 
 Web Development | 
-Machine Learning | 
-Mobile Development |
+Devops | 
+Game Development |
 
 <br>
 
@@ -40,7 +38,7 @@ Mobile Development |
 <div style="display: inline_block">
   <p align="center">
 	<a href="#">
-      <img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,java,hibernate,spring,php,laravel,mysql,c,python,git" />
+      <img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,java,spring,php,laravel,mysql,c,python,git,docker,linux" />
     </a>
   </p>
 </div>
